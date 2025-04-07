@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammet Taner Kalaner</h1>
-<h3 align="center">A passionate frontend/UI Design developer from Turkiye</h3>
+<h3 align="center">A passionate Mobile developer from Turkiye</h3>
 
 - 🔭 I’m currently working on **Mobile Development**
 
